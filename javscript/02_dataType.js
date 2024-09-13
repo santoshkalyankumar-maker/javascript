@@ -13,4 +13,15 @@ let  state;
 // boolean => true/ false
 // null => standard alone
 //  undefined =>
+// symboal => unique
+// object
+// javascript
+// javascript web app:
+// 1) Dynamic web app
+// 2) interative web app:
+// 3) validation
+//   clinet side | server side
+
+
+
 
