@@ -36,3 +36,20 @@ var y;
   let z= x+y; */
 
 
+
+/*let x = 6;
+let y = 8;    // using the  let for java script
+let z = x + y;
+console.log(z);
+  */
+
+const x =8;
+const y = 9;  // using  the const key word using the javascript for varable
+const z = x+y;
+console.log(z);
+
+ const price1 = 8; // the price1 using the const keyword can not be chnaged 
+ const price2 = 99; 
+  let total = price1 + price2; // by using the let key word using the total key word for 
+  console.log(total);
+  
