@@ -42,7 +42,7 @@ let y = 8;    // using the  let for java script
 let z = x + y;
 console.log(z);
   */
-
+/*  
 const x =8;
 const y = 9;  // using  the const key word using the javascript for varable
 const z = x+y;
@@ -52,4 +52,18 @@ console.log(z);
  const price2 = 99; 
   let total = price1 + price2; // by using the let key word using the total key word for 
   console.log(total);
-  
+   
+
+  "user strict"// use the new vesrion of java script 
+
+  alert("hello")
+
+  let foo =42; // number in javascript
+  foo = "bar"; // string in javascript
+ foo=  true; // boolebn in javascript
+ */
+
+
+ const foo = 42; // foo is a number
+ const result = foo + "1"; // JavaScript coerces foo to a string, so it can be concatenated with the other operand
+ console.log(result)
